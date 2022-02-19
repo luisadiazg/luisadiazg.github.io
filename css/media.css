@@ -1,0 +1,26 @@
+@media (max-width: 1368px) and (orientation: landscape) {
+    div.end {
+      margin-top: 400px;
+      color: black;
+    }
+  }
+
+@media (max-width: 1368px) and (orientation: portrait){
+      div.end {
+        margin-top: 400px;
+        color: black;
+      }
+    }
+
+@media (min-width: 320px) and (max-width: 771px)  {
+div.end {
+  margin-top: 900px;
+  color: black;
+}
+}
+@media (min-width: 1369px) and (max-width: 1440px) {
+div.end {
+  margin-top: 400px;
+  color: black;
+}
+}
