@@ -1,0 +1,116 @@
+.fondo-azul{
+  background-color: #3d3d3d;
+}
+.fondo-negro{
+  background-color: black;
+}
+.texto-titulos{
+  color: black;
+  text-align: center;
+}
+
+.texto-cuerpo {
+  color: #636e72;
+  text-align: justify;
+
+}
+
+.div-columns2{
+  display: inline-block;
+  width: 48%;
+
+}
+.linea-negra{
+  background-color: black;
+  height: 5px;
+}
+
+h2 {
+  text-align: left;
+  color: #636e72;
+  font-weight: bold;
+}
+h2.titulo2{
+  color: white;
+  font-weight: bold;
+}
+p{
+  font-family: helvetica,sans-serif;
+}
+p.estilo-1::first-letter{
+  font-size: 2em;
+  font-family: serif;
+}
+dt{
+  font-weight:22px;
+  text-transform:uppercase;
+  margin-bottom:12px;
+  color: black;
+  margin-left: 22px;
+}
+dd{
+  margin-bottom:32px;
+}
+hr{
+
+}
+hr.blanco{
+  color: white;
+}
+i{
+
+}
+i.icon{
+  margin-top: 4px;
+  color: white;
+  margin-top: 22px;
+}
+div{
+
+}
+div.iconos{
+
+  color: white;
+  font-size: 22px;
+  margin-left: 22px;
+  margin-top: 22px;
+
+}
+
+div.contacto{
+
+  color: white;
+  margin-left: 22px;
+  margin-top: 22px;
+}
+
+div.network{
+
+  color: white;
+  margin-left: 12px;
+  margin-top: 22px;
+}
+
+i.aptitud{
+      color: white;
+
+    margin-top: 22px;
+
+}
+@media only screen (min-width: 700px) and (max-width: 770px) {
+div.end {
+  margin-top: 890px;
+  color: black;
+}
+
+@media only screen (min-width: 800px) (max-width: 1366px) {
+div.end {
+  margin-top: 80px;
+  color: black;
+}
+
+@media only screen (min-width: 1400px) (max-width: 1440px) {
+div.end {
+  margin-top: 840px;
+  color: black;
+}
