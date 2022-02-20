@@ -14,7 +14,11 @@
 
 @media (min-width: 320px) and (max-width: 771px)  {
 div.end {
+<<<<<<< HEAD
   margin-top: 980px;
+=======
+  margin-top: 200px;
+>>>>>>> 21b5d5ecbdbc69c39c7c42b8dd313cfbdc2ccf06
   color: black;
 }
 }
